@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flying-Spaghetti-Monster69
 - 👀 I’m interested in being a backend developer
 - 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on programming projects
+- 💞️ I’m looking to collaborate on programming projects, I speak Spanish and English.
 - 📫 How to reach me, my email felipegarzon908@gmail.com
 
 <!---
