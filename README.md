@@ -23,7 +23,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flying-spaghetti-monster69&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="flying-spaghetti-monster69"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flying-spaghetti-monster69&theme=highcontrast" alt="flying-spaghetti-monster69"/>
 </a>
 
