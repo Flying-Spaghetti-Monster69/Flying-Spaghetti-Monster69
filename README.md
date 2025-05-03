@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Garzon Melguizo</h1>  <h3 align="center">Full stack developer | Software Engineer 🧑🏻‍💻</h3>
 
-<img align="center" src="https://camo.githubusercontent.com/32938c5cfc76ec1c984b9a5d968aa4c815470f2b86c080699351d67434963ed0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" 
+<img align="center" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" 
  height="250" alt="donut moving"  width="500"  />
 
 <p align="left"> <a href="https://twitter.com/felipeg10017424" target="blank"><img src="https://img.shields.io/twitter/follow/felipeg10017424?logo=twitter&style=for-the-badge" alt="felipeg10017424" /></a> </p>  
