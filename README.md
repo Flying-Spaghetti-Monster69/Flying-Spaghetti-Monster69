@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Garzon Melguizo</h1>  <h3 align="center">Full stack developer | Software Engineer 🧑🏻‍💻</h3>
 
+<p align="center">
 <img align="center" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" 
  height="250" alt="donut moving"  width="500"  />
+</p>
 
 <p align="left"> <a href="https://twitter.com/felipeg10017424" target="blank"><img src="https://img.shields.io/twitter/follow/felipeg10017424?logo=twitter&style=for-the-badge" alt="felipeg10017424" /></a> </p>  
   
