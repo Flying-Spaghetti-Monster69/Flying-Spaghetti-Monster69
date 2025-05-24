@@ -5,9 +5,9 @@
  height="250" alt="donut moving"  width="500"  />
 </p>
 
-<p>I started out writing C++ and building small side projects—things like terminal-based games and calculators to solve school problems. That curiosity eventually led me to JavaScript, where I made some landing pages and a simple blackjack game, and from there I dove into modern web development with React and Next.js. Since then, I've been hooked on building intuitive, responsive user experiences.</p>
+<p>I started out writing C++ and building small side projects things like terminal-based games and calculators to solve school problems. That curiosity eventually led me to JavaScript, where I made some landing pages and a simple blackjack game, and from there I dove into modern web development with React and Next.js. Since then, I've been hooked on building intuitive, responsive user experiences.</p>
 
-<p>I'm now looking for a frontend or full-stack role (ideally react or next) where I can keep growing and shipping great products—ideally in a fast-paced startup environment with a collaborative team. If you're hiring and need someone who’s been in love with coding since the command line days, I’d love to connect!</p>
+<p>I'm now looking for a frontend or full-stack role (ideally react or next) where I can keep growing and shipping great products, preferably in a fast-paced startup environment with a collaborative team. If you're hiring and need someone who’s been in love with coding since the old no AI days, I’d love to connect!</p>
 
 <p align="left"> <a href="https://twitter.com/felipeg10017424" target="blank"><img src="https://img.shields.io/twitter/follow/felipeg10017424?logo=twitter&style=for-the-badge" alt="felipeg10017424" /></a> </p>  
   
